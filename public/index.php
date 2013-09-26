@@ -1,6 +1,6 @@
 <?php
 require("../includes/fonctions.inc.php");
-//recherche du nom du controleur
+//recherche du nom 
 $nomControleur= getRequest("controleur", "accueil");
 
 //recherche du nom de l'action
